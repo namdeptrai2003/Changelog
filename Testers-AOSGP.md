@@ -10,6 +10,10 @@ MOTOROLA
 * __[Moto G 4G (peregrine)]:__ Aritz
 * __[Moto G4 Plus (athene)]:__ Evilhowl
 
+SAMSUNG
+--------
+* __[Galaxy Trend Plus/S Dous 2 (kyleproxx)]:__ Me ( UnknownXDA )
+
 Bq
 --------
 * __[Aquaris X5 (paella)]:__ Pol Galo, Jon Vi, Rubén Díaz, Daniel García y Fedroz
