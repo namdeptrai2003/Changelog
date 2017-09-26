@@ -45,6 +45,10 @@ Google
 * __[Android One 2º or GM4G (seed)]:__ Hellios Darkline and EypCnn
 * __[Android One 3º or GM5+ (shamrock)]:__ Rygebın and EypCnn
 
+Samsung
+--------
+* __[Galaxy Trend Plus/S Dous 2(kyleproxx)]:__ Do Nam ( Unknown )
+
 Yu
 --------
 * __[Yureka (tomato)]:__ Neeraj Thakur (thakurfazer)
